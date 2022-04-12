@@ -9,7 +9,7 @@
 
 <div class="flex items-center justify-center w-full h-screen flex-col bg-slate-400">
 	<h1 class="text-7xl">Pat</h1>
-	<h3 class="text-2xl">March 30 2008</h3>
+	<h3 class="text-2xl">March 30th 2008</h3>
 	<h4 class="text-2xl sm:text-4xl">
 		<span class="text-blue-900">{age}</span>
 		years old

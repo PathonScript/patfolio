@@ -11,5 +11,4 @@
 
 <Header />
 <About />
-<Achievements />
 <Footer />
